@@ -1,0 +1,1 @@
+my $var = undef; if (!defined($var)) { print "This will execute"; }

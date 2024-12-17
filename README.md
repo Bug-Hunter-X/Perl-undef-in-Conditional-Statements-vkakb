@@ -1,0 +1,1 @@
+This example demonstrates a common error in Perl related to the use of 'undef' in conditional statements.  'undef' does not evaluate to false in Perl, so conditions checking it directly often lead to unexpected code paths not being executed. The solution shows how to correctly test for undef values.
